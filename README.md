@@ -1,1 +1,2 @@
 # LogGenius
+Efficient and accurate parsing of unstructured logs is crucial for anomaly detection, root cause localization, and log compression. Although many existing works have made good progress relying on Large Language Models (LLMs) and prompt engineering techniques, most of them require a certain degree of labeling or few-shot prompts, which limits their applicability in large-scale real-time heterogeneous log environments. To tackle this issue, we develop LogGenius, a novel unsupervised log parsing framework. 
